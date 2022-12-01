@@ -1,7 +1,4 @@
 #!/bin/bash
-# my first script
-echo 'betty'
-chmod 755 betty
-./betty
-
-
+pwd\
+	"
+"
