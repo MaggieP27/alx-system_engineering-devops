@@ -1,1 +1,2 @@
-echo "cat /etc/passwd" cat etc/hosts"
+#!/bin/bash
+echo " cat /etc/passwd/etc/hosts "
