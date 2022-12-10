@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1670358386,,"wq"
+|2,0,1670684552,,"wq"
 :wa
 |2,0,1670279856,,"wa"
 ::wq
@@ -61,34 +61,44 @@
 |3,1,36,0,1,0,1670090362,"+"
 
 # File marks:
-'0  2  114  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
-|4,48,2,114,1670358386,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
-'1  1  146  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
-|4,49,1,146,1670354596,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
-'2  3  66  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
-|4,50,3,66,1670354596,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
-'3  2  40  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
-|4,51,2,40,1670354212,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
-'4  2  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
-|4,52,2,41,1670342474,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
-'5  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
-|4,53,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
-'6  2  28  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-|4,54,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
-'7  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,55,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
-'8  2  49  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,56,2,49,1670315266,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
-'9  1  50  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
-|4,57,1,50,1670315165,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1670684552,"~/.git/COMMIT_EDITMSG"
+'1  2  114  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
+|4,49,2,114,1670358386,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
+'2  1  146  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
+|4,50,1,146,1670354596,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
+'3  3  66  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
+|4,51,3,66,1670354596,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
+'4  2  40  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,52,2,40,1670354212,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+'5  2  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,53,2,41,1670342474,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+'6  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,54,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+'7  2  28  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
+|4,55,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
+'8  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
+|4,56,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
+'9  2  49  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
+|4,57,2,49,1670315266,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1670684552,"~/.git/COMMIT_EDITMSG"
+-'  2  114  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
+|4,39,2,114,1670358386,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
 -'  2  114  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
 |4,39,2,114,1670358386,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
 -'  1  146  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
 |4,39,1,146,1670358268,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
+-'  1  146  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
+|4,39,1,146,1670358268,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
 -'  3  66  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
 |4,39,3,66,1670354596,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
+-'  3  66  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
+|4,39,3,66,1670354596,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
+-'  1  50  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
+|4,39,1,50,1670354499,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
 -'  1  50  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
 |4,39,1,50,1670354499,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir"
 -'  2  40  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
@@ -99,6 +109,22 @@
 |4,39,2,40,1670354212,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
 -'  2  40  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
 |4,39,2,40,1670354212,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  2  40  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,2,40,1670354212,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  2  40  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,2,40,1670354212,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  2  40  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,2,40,1670354212,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  2  40  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,2,40,1670354212,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  2  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,2,41,1670342474,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  2  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,2,41,1670342474,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  2  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,2,41,1670342474,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  2  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,2,41,1670342474,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
 -'  2  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
 |4,39,2,41,1670342474,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
 -'  2  41  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
@@ -123,6 +149,54 @@
 |4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
 -'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
 |4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  53  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
+|4,39,1,53,1670342308,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
+|4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
 -'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
 |4,39,1,0,1670330504,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md"
 -'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
@@ -209,82 +283,12 @@
 |4,39,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
 -'  2  28  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
 |4,39,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
--'  2  28  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-|4,39,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
--'  2  28  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-|4,39,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
--'  2  28  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-|4,39,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
--'  2  28  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-|4,39,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
--'  2  28  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-|4,39,2,28,1670315359,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
--'  2  48  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-|4,39,2,48,1670315333,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1670684543	0
+	"	1	0
 
 > ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
 	*	1670358381	0
